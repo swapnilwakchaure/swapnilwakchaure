@@ -25,7 +25,6 @@ built upon my developer skills.</h2>
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 please see my PortFolio [https://utkarshongithub.github.io/UtkarshPortFolio/](https://utkarshongithub.github.io/UtkarshPortFolio/)
 
 - 👨‍💻 please see my Resume [click here to see resume](https://drive.google.com/file/d/15gD7-zoPEJlJq-VylVxqcH03itWBoDz3/view?usp=share_link)
 
